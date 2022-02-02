@@ -1,5 +1,5 @@
 {
-  "Visibility": "VISIBLE",
+  "Visibility": "GONE",
   "Title": "MAINTENANCE",
   "Description": "Please Join Our Telegram For More information.",
   "MainTextButton": "Join Telegram",
