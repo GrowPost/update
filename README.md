@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "New Update",
+  "Description": "Test",
   "MainTextButton": "Update",
-  "Cancelable": "true",
+  "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "www.example.com",
+  "DownloadLink": "https://t.me/growpost",
   "Version": "1.1"
 }
