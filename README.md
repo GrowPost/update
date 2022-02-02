@@ -1,6 +1,6 @@
 {
   "Visibility": "GONE",
-  "Title": "New Update",
+  "Title": "New",
   "Description": "Test",
   "MainTextButton": "Update",
   "Cancelable": "false",
