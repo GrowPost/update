@@ -6,5 +6,5 @@
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://t.me/growpost",
-  "Version": "1.1"
+  "Version": "1.2"
 }
