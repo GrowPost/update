@@ -1,6 +1,6 @@
 {
-  "Visibility": "GONE",
-  "Title": "New",
+  "Visibility": "VISIBLE",
+  "Title": "WELCOME",
   "Description": "Please Join Our Telegram For More information.",
   "MainTextButton": "Join Telegram",
   "Cancelable": "true",
