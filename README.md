@@ -2,7 +2,7 @@
   "Visibility": "GONE",
   "Title": "WELCOME",
   "Description": "Please Join Our Telegram For More information.",
-  "MainTextButton": "Join Telegram",
+  "MainTextButton": "Join Telegrm",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://t.me/growpost",
