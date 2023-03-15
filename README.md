@@ -1,5 +1,5 @@
 {
-  "Visibility": "VISIBLE",
+  "Visibility": "GONE",
   "Title": "Maintenance",
   "Description": "The app is under maintenance",
   "MainTextButton": "Join Telegram",
