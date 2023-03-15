@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
-  "MainTextButton": "Update",
+  "Title": "Maintenance",
+  "Description": "The app is under maintenance",
+  "MainTextButton": "Join Telegram",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "https://google.com",
+  "DownloadLink": "https://t.me/KrimaApp",
   "Version": "1.1"
 }
