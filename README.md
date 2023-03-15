@@ -1,10 +1,10 @@
 {
-  "Visibility": "GONE",
-  "Title": "WELCOME",
-  "Description": "Please Join Our Telegram For More information.",
-  "MainTextButton": "Join Telegrm",
-  "Cancelable": "true",
+  "Visibility": "VISIBLE",
+  "Title": "Test",
+  "Description": "Test Message",
+  "MainTextButton": "Update",
+  "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "https://t.me/growpost",
-  "Version": "1.2"
+  "DownloadLink": "https://google.com",
+  "Version": "1.1"
 }
